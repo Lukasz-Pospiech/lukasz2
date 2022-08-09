@@ -4,7 +4,7 @@ function menuShowOrHide() {
     let menuDiv = document.getElementById("menuDIV");
     let menuDiv2 = document.getElementById("menuDIV2");
 
-    document.getElementById("navBar").style.backgroundColor = "green"; 
+    document.getElementById("navBar").style.backgroundColor = "black"; 
 
     if (menuState === 'closed') {
         menuShow();
