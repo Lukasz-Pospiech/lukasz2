@@ -29,11 +29,10 @@ body {
 /* Top nav bar*/
 #navBar {
     position: fixed;
-    background-color: rgb(129, 129, 213);
+    background-color: black;
     width: 100vw;
     height: 20vw;
     text-align: center;
-    background-color: rgba(0, 0, 0, 0.363);
 }
 
 /* #navIconContainer {
